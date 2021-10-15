@@ -1,6 +1,7 @@
 # Current_Deconvolution_GUI
 
 README for Current_Deconvolution_GUI [1]
+
 Latest Version: 3.2.3 - 15th October 2021 
 
 This GUI will take variable rate cyclic voltammetry (CV) data (at least 3 rates) and deconvolute the current using the methods described in Wang et al. [2].

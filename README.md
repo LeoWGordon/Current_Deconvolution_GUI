@@ -27,6 +27,7 @@ For any further queries or feedback, please contact me at lgordon@ccny.cuny.edu
 [1] Under review: T. Schoetz, L. W. Gordon, S. Ivanov, A. Bund, D. Mandler,* and R. J. Messinger
 Disentangling Charge Storage Mechanisms in Hybrid Energy Storage Systems: 
 A Tutorial for the Characterization of Batteries and Capacitors
+
 [2] Wang, J., Polleux, J., Lim, J. & Dunn, B. Pseudocapacitive Contributions 
 to Electrochemical Energy Storage in TiO 2 (Anatase) Nanoparticles. 
 J. Phys. Chem. C 111, 14925–14931 (2007).
